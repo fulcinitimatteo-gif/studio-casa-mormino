@@ -17,3 +17,10 @@ Foto illustrativa di Kateryna T: https://unsplash.com/photos/white-and-blue-conc
 
 ## Contenuti da completare
 Confermare i testi dei servizi e aggiungere sede e dati fiscali dello studio.
+
+## Collegamenti
+Sito pubblico: https://studio-casa-mormino.fulcinitimatteo.workers.dev
+Repository: https://github.com/fulcinitimatteo-gif/studio-casa-mormino
+
+La pubblicazione iniziale è stata eseguita con Wrangler. I successivi push GitHub non pubblicano automaticamente: eseguire pnpm deploy per aggiornare Cloudflare.
+
