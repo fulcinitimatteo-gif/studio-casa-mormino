@@ -4,7 +4,21 @@
   "account_id": "a5e95d1f97edc70e0be01c00ac53637f",
   "main": "vinext/server/fetch-handler",
   "compatibility_date": "2026-05-15",
-  "compatibility_flags": ["nodejs_compat"],
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "workers_dev": true,
-  "observability": { "enabled": true }
+  "observability": {
+    "enabled": true
+  },
+  "routes": [
+    {
+      "custom_domain": true,
+      "pattern": "studiocasamormino.it"
+    },
+    {
+      "custom_domain": true,
+      "pattern": "www.studiocasamormino.it"
+    }
+  ]
 }

@@ -24,3 +24,6 @@ Repository: https://github.com/fulcinitimatteo-gif/studio-casa-mormino
 
 La pubblicazione iniziale è stata eseguita con Wrangler. I successivi push GitHub non pubblicano automaticamente: eseguire pnpm deploy per aggiornare Cloudflare.
 
+
+Dominio principale: https://studiocasamormino.it (anche www). DNS Cloudflare; registrazione e posta Aruba. Nameserver: ethan.ns.cloudflare.com e fiona.ns.cloudflare.com.
+
