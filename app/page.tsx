@@ -2,7 +2,7 @@
 import { ArrowUpRight, ArrowDown, FileText, Wrench, Users, Phone, Mail } from 'lucide-react';
 const services = [
   {icon: FileText, title:'Contabilità e rendiconti', text:'Bilanci, ripartizione delle spese e documentazione contabile: una visione chiara della gestione economica.'},
-  {icon: Wrench, title:'Manutenzione e fornitori', text:'Coordinamento degli interventi, con attenzione alle esigenze dell’edificio.'},
+  {icon: Wrench, title:'Manutenzione e fornitori', text:'Coordinamento degli interventi con attenzione alle esigenze dell’edificio.'},
   {icon: Users, title:'Assemblee e comunicazioni', text:'Organizzazione delle assemblee e cura delle comunicazioni, per favorire decisioni consapevoli e un dialogo costruttivo.'}
 ];
 export default function Home(){return <>
