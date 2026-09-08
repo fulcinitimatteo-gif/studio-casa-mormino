@@ -1,10 +1,9 @@
 /* oxlint-disable next/no-img-element -- Local assets are sized explicitly and served directly. */
-import { ArrowUpRight, ArrowDown, Building2, FileText, Wrench, Users, Phone, Mail } from 'lucide-react';
+import { ArrowUpRight, ArrowDown, FileText, Wrench, Users, Phone, Mail } from 'lucide-react';
 const services = [
-  {icon: Building2, title:'Amministrazione condominiale', text:'La gestione ordinaria del condominio, dalle attività quotidiane all’attuazione delle decisioni dell’assemblea.'},
   {icon: FileText, title:'Contabilità e rendiconti', text:'Bilanci, ripartizione delle spese e documentazione contabile: una visione chiara della gestione economica.'},
-  {icon: Wrench, title:'Manutenzione e fornitori', text:'Coordinamento degli interventi sulle parti comuni e dei rapporti con i fornitori, con attenzione alle esigenze dell’edificio.'},
-  {icon: Users, title:'Assemblee e comunicazione', text:'Organizzazione delle assemblee e cura delle comunicazioni, per favorire decisioni consapevoli e un dialogo costruttivo.'}
+  {icon: Wrench, title:'Manutenzione e fornitori', text:'Coordinamento degli interventi, con attenzione alle esigenze dell’edificio.'},
+  {icon: Users, title:'Assemblee e comunicazioni', text:'Organizzazione delle assemblee e cura delle comunicazioni, per favorire decisioni consapevoli e un dialogo costruttivo.'}
 ];
 export default function Home(){return <>
 <a className="skip" href="#contenuto">Vai al contenuto</a>
