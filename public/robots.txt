@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studiocasamormino.it/sitemap.xml
